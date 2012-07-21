@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Mail Central' target in the 'Mail Central' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
