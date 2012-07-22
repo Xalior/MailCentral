@@ -1,14 +1,14 @@
 //
-//  XMCAppDelegate.m
+//  MCAppDelegate.m
 //  Mail Central
 //
-//  Created by D. Rimron on 21/07/2012.
-//  Copyright (c) 2012 Xalior. All rights reserved.
+//  Created by D. Rimron on 22/07/2012.
+//  Copyright (c) 2012 D. Rimron. All rights reserved.
 //
 
-#import "XMCAppDelegate.h"
+#import "MCAppDelegate.h"
 
-@implementation XMCAppDelegate
+@implementation MCAppDelegate
 
 @synthesize persistentStoreCoordinator = _persistentStoreCoordinator;
 @synthesize managedObjectModel = _managedObjectModel;

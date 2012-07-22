@@ -7,100 +7,100 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D51D630C15BB2F2200AA7B50 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D51D630B15BB2F2200AA7B50 /* Cocoa.framework */; };
-		D51D631615BB2F2200AA7B50 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D51D631415BB2F2200AA7B50 /* InfoPlist.strings */; };
-		D51D631815BB2F2200AA7B50 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D51D631715BB2F2200AA7B50 /* main.m */; };
-		D51D631C15BB2F2200AA7B50 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D51D631A15BB2F2200AA7B50 /* Credits.rtf */; };
-		D51D631F15BB2F2200AA7B50 /* XMCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D51D631E15BB2F2200AA7B50 /* XMCAppDelegate.m */; };
-		D51D632215BB2F2300AA7B50 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D51D632015BB2F2300AA7B50 /* MainMenu.xib */; };
-		D51D632515BB2F2300AA7B50 /* Mail_Central.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D51D632315BB2F2300AA7B50 /* Mail_Central.xcdatamodeld */; };
+		D54600E515BC6994001B8251 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D54600E415BC6994001B8251 /* Cocoa.framework */; };
+		D54600EF15BC6994001B8251 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D54600ED15BC6994001B8251 /* InfoPlist.strings */; };
+		D54600F115BC6994001B8251 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D54600F015BC6994001B8251 /* main.m */; };
+		D54600F515BC6994001B8251 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D54600F315BC6994001B8251 /* Credits.rtf */; };
+		D54600F815BC6994001B8251 /* MCAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D54600F715BC6994001B8251 /* MCAppDelegate.m */; };
+		D54600FB15BC6994001B8251 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D54600F915BC6994001B8251 /* MainMenu.xib */; };
+		D54600FE15BC6994001B8251 /* Mail_Central.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D54600FC15BC6994001B8251 /* Mail_Central.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D51D630715BB2F2200AA7B50 /* Mail Central.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mail Central.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D51D630B15BB2F2200AA7B50 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
-		D51D630E15BB2F2200AA7B50 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
-		D51D630F15BB2F2200AA7B50 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		D51D631015BB2F2200AA7B50 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		D51D631315BB2F2200AA7B50 /* Mail Central-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Mail Central-Info.plist"; sourceTree = "<group>"; };
-		D51D631515BB2F2200AA7B50 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D51D631715BB2F2200AA7B50 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D51D631915BB2F2200AA7B50 /* Mail Central-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Mail Central-Prefix.pch"; sourceTree = "<group>"; };
-		D51D631B15BB2F2200AA7B50 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		D51D631D15BB2F2200AA7B50 /* XMCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XMCAppDelegate.h; sourceTree = "<group>"; };
-		D51D631E15BB2F2200AA7B50 /* XMCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XMCAppDelegate.m; sourceTree = "<group>"; };
-		D51D632115BB2F2300AA7B50 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		D51D632415BB2F2300AA7B50 /* Mail_Central.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Mail_Central.xcdatamodel; sourceTree = "<group>"; };
+		D54600E015BC6994001B8251 /* Mail Central.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mail Central.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D54600E415BC6994001B8251 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		D54600E715BC6994001B8251 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		D54600E815BC6994001B8251 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		D54600E915BC6994001B8251 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D54600EC15BC6994001B8251 /* Mail Central-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Mail Central-Info.plist"; sourceTree = "<group>"; };
+		D54600EE15BC6994001B8251 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D54600F015BC6994001B8251 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D54600F215BC6994001B8251 /* Mail Central-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Mail Central-Prefix.pch"; sourceTree = "<group>"; };
+		D54600F415BC6994001B8251 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		D54600F615BC6994001B8251 /* MCAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MCAppDelegate.h; sourceTree = "<group>"; };
+		D54600F715BC6994001B8251 /* MCAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MCAppDelegate.m; sourceTree = "<group>"; };
+		D54600FA15BC6994001B8251 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		D54600FD15BC6994001B8251 /* Mail_Central.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Mail_Central.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D51D630415BB2F2200AA7B50 /* Frameworks */ = {
+		D54600DD15BC6994001B8251 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D51D630C15BB2F2200AA7B50 /* Cocoa.framework in Frameworks */,
+				D54600E515BC6994001B8251 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D51D62FC15BB2F2200AA7B50 = {
+		D54600D515BC6994001B8251 = {
 			isa = PBXGroup;
 			children = (
-				D51D631115BB2F2200AA7B50 /* Mail Central */,
-				D51D630A15BB2F2200AA7B50 /* Frameworks */,
-				D51D630815BB2F2200AA7B50 /* Products */,
+				D54600EA15BC6994001B8251 /* Mail Central */,
+				D54600E315BC6994001B8251 /* Frameworks */,
+				D54600E115BC6994001B8251 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D51D630815BB2F2200AA7B50 /* Products */ = {
+		D54600E115BC6994001B8251 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D51D630715BB2F2200AA7B50 /* Mail Central.app */,
+				D54600E015BC6994001B8251 /* Mail Central.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D51D630A15BB2F2200AA7B50 /* Frameworks */ = {
+		D54600E315BC6994001B8251 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D51D630B15BB2F2200AA7B50 /* Cocoa.framework */,
-				D51D630D15BB2F2200AA7B50 /* Other Frameworks */,
+				D54600E415BC6994001B8251 /* Cocoa.framework */,
+				D54600E615BC6994001B8251 /* Other Frameworks */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D51D630D15BB2F2200AA7B50 /* Other Frameworks */ = {
+		D54600E615BC6994001B8251 /* Other Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D51D630E15BB2F2200AA7B50 /* AppKit.framework */,
-				D51D630F15BB2F2200AA7B50 /* CoreData.framework */,
-				D51D631015BB2F2200AA7B50 /* Foundation.framework */,
+				D54600E715BC6994001B8251 /* AppKit.framework */,
+				D54600E815BC6994001B8251 /* CoreData.framework */,
+				D54600E915BC6994001B8251 /* Foundation.framework */,
 			);
 			name = "Other Frameworks";
 			sourceTree = "<group>";
 		};
-		D51D631115BB2F2200AA7B50 /* Mail Central */ = {
+		D54600EA15BC6994001B8251 /* Mail Central */ = {
 			isa = PBXGroup;
 			children = (
-				D51D631D15BB2F2200AA7B50 /* XMCAppDelegate.h */,
-				D51D631E15BB2F2200AA7B50 /* XMCAppDelegate.m */,
-				D51D632015BB2F2300AA7B50 /* MainMenu.xib */,
-				D51D632315BB2F2300AA7B50 /* Mail_Central.xcdatamodeld */,
-				D51D631215BB2F2200AA7B50 /* Supporting Files */,
+				D54600F615BC6994001B8251 /* MCAppDelegate.h */,
+				D54600F715BC6994001B8251 /* MCAppDelegate.m */,
+				D54600F915BC6994001B8251 /* MainMenu.xib */,
+				D54600FC15BC6994001B8251 /* Mail_Central.xcdatamodeld */,
+				D54600EB15BC6994001B8251 /* Supporting Files */,
 			);
 			path = "Mail Central";
 			sourceTree = "<group>";
 		};
-		D51D631215BB2F2200AA7B50 /* Supporting Files */ = {
+		D54600EB15BC6994001B8251 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D51D631315BB2F2200AA7B50 /* Mail Central-Info.plist */,
-				D51D631415BB2F2200AA7B50 /* InfoPlist.strings */,
-				D51D631715BB2F2200AA7B50 /* main.m */,
-				D51D631915BB2F2200AA7B50 /* Mail Central-Prefix.pch */,
-				D51D631A15BB2F2200AA7B50 /* Credits.rtf */,
+				D54600EC15BC6994001B8251 /* Mail Central-Info.plist */,
+				D54600ED15BC6994001B8251 /* InfoPlist.strings */,
+				D54600F015BC6994001B8251 /* main.m */,
+				D54600F215BC6994001B8251 /* Mail Central-Prefix.pch */,
+				D54600F315BC6994001B8251 /* Credits.rtf */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -108,13 +108,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D51D630615BB2F2200AA7B50 /* Mail Central */ = {
+		D54600DF15BC6994001B8251 /* Mail Central */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D51D632815BB2F2300AA7B50 /* Build configuration list for PBXNativeTarget "Mail Central" */;
+			buildConfigurationList = D546010115BC6994001B8251 /* Build configuration list for PBXNativeTarget "Mail Central" */;
 			buildPhases = (
-				D51D630315BB2F2200AA7B50 /* Sources */,
-				D51D630415BB2F2200AA7B50 /* Frameworks */,
-				D51D630515BB2F2200AA7B50 /* Resources */,
+				D54600DC15BC6994001B8251 /* Sources */,
+				D54600DD15BC6994001B8251 /* Frameworks */,
+				D54600DE15BC6994001B8251 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -122,83 +122,83 @@
 			);
 			name = "Mail Central";
 			productName = "Mail Central";
-			productReference = D51D630715BB2F2200AA7B50 /* Mail Central.app */;
+			productReference = D54600E015BC6994001B8251 /* Mail Central.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D51D62FE15BB2F2200AA7B50 /* Project object */ = {
+		D54600D715BC6994001B8251 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = XMC;
-				LastUpgradeCheck = 0450;
-				ORGANIZATIONNAME = Xalior;
+				CLASSPREFIX = MC;
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "D. Rimron";
 			};
-			buildConfigurationList = D51D630115BB2F2200AA7B50 /* Build configuration list for PBXProject "Mail Central" */;
+			buildConfigurationList = D54600DA15BC6994001B8251 /* Build configuration list for PBXProject "Mail Central" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = D51D62FC15BB2F2200AA7B50;
-			productRefGroup = D51D630815BB2F2200AA7B50 /* Products */;
+			mainGroup = D54600D515BC6994001B8251;
+			productRefGroup = D54600E115BC6994001B8251 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D51D630615BB2F2200AA7B50 /* Mail Central */,
+				D54600DF15BC6994001B8251 /* Mail Central */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D51D630515BB2F2200AA7B50 /* Resources */ = {
+		D54600DE15BC6994001B8251 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D51D631615BB2F2200AA7B50 /* InfoPlist.strings in Resources */,
-				D51D631C15BB2F2200AA7B50 /* Credits.rtf in Resources */,
-				D51D632215BB2F2300AA7B50 /* MainMenu.xib in Resources */,
+				D54600EF15BC6994001B8251 /* InfoPlist.strings in Resources */,
+				D54600F515BC6994001B8251 /* Credits.rtf in Resources */,
+				D54600FB15BC6994001B8251 /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D51D630315BB2F2200AA7B50 /* Sources */ = {
+		D54600DC15BC6994001B8251 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D51D631815BB2F2200AA7B50 /* main.m in Sources */,
-				D51D631F15BB2F2200AA7B50 /* XMCAppDelegate.m in Sources */,
-				D51D632515BB2F2300AA7B50 /* Mail_Central.xcdatamodeld in Sources */,
+				D54600F115BC6994001B8251 /* main.m in Sources */,
+				D54600F815BC6994001B8251 /* MCAppDelegate.m in Sources */,
+				D54600FE15BC6994001B8251 /* Mail_Central.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D51D631415BB2F2200AA7B50 /* InfoPlist.strings */ = {
+		D54600ED15BC6994001B8251 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D51D631515BB2F2200AA7B50 /* en */,
+				D54600EE15BC6994001B8251 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		D51D631A15BB2F2200AA7B50 /* Credits.rtf */ = {
+		D54600F315BC6994001B8251 /* Credits.rtf */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D51D631B15BB2F2200AA7B50 /* en */,
+				D54600F415BC6994001B8251 /* en */,
 			);
 			name = Credits.rtf;
 			sourceTree = "<group>";
 		};
-		D51D632015BB2F2300AA7B50 /* MainMenu.xib */ = {
+		D54600F915BC6994001B8251 /* MainMenu.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D51D632115BB2F2300AA7B50 /* en */,
+				D54600FA15BC6994001B8251 /* en */,
 			);
 			name = MainMenu.xib;
 			sourceTree = "<group>";
@@ -206,13 +206,12 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D51D632615BB2F2300AA7B50 /* Debug */ = {
+		D54600FF15BC6994001B8251 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
@@ -229,19 +228,18 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
-		D51D632715BB2F2300AA7B50 /* Release */ = {
+		D546010015BC6994001B8251 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = YES;
@@ -252,12 +250,12 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				SDKROOT = macosx;
 			};
 			name = Release;
 		};
-		D51D632915BB2F2300AA7B50 /* Debug */ = {
+		D546010215BC6994001B8251 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
@@ -269,7 +267,7 @@
 			};
 			name = Debug;
 		};
-		D51D632A15BB2F2300AA7B50 /* Release */ = {
+		D546010315BC6994001B8251 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
@@ -284,37 +282,37 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D51D630115BB2F2200AA7B50 /* Build configuration list for PBXProject "Mail Central" */ = {
+		D54600DA15BC6994001B8251 /* Build configuration list for PBXProject "Mail Central" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D51D632615BB2F2300AA7B50 /* Debug */,
-				D51D632715BB2F2300AA7B50 /* Release */,
+				D54600FF15BC6994001B8251 /* Debug */,
+				D546010015BC6994001B8251 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D51D632815BB2F2300AA7B50 /* Build configuration list for PBXNativeTarget "Mail Central" */ = {
+		D546010115BC6994001B8251 /* Build configuration list for PBXNativeTarget "Mail Central" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D51D632915BB2F2300AA7B50 /* Debug */,
-				D51D632A15BB2F2300AA7B50 /* Release */,
+				D546010215BC6994001B8251 /* Debug */,
+				D546010315BC6994001B8251 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		D51D632315BB2F2300AA7B50 /* Mail_Central.xcdatamodeld */ = {
+		D54600FC15BC6994001B8251 /* Mail_Central.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				D51D632415BB2F2300AA7B50 /* Mail_Central.xcdatamodel */,
+				D54600FD15BC6994001B8251 /* Mail_Central.xcdatamodel */,
 			);
-			currentVersion = D51D632415BB2F2300AA7B50 /* Mail_Central.xcdatamodel */;
+			currentVersion = D54600FD15BC6994001B8251 /* Mail_Central.xcdatamodel */;
 			path = Mail_Central.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = D51D62FE15BB2F2200AA7B50 /* Project object */;
+	rootObject = D54600D715BC6994001B8251 /* Project object */;
 }
